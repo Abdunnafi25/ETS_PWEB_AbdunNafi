@@ -1,0 +1,21 @@
+body{
+    background-color: darkslategray;
+}
+
+.navbar-style{
+    box-shadow: 0 5px 10px #000000;
+}
+
+.body{
+    margin-top: 120px;
+}
+
+.profil{
+    border-radius: 50%;
+}
+
+.big-text{
+    font-size: 52px;
+    margin: 20px 0;
+    color: azure;
+}
